@@ -2,33 +2,54 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>斐地</title>
-    <link>https://fradeet.top</link>
-    <atom:link href="https://fradeet.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>https://www.fradeet.top</link>
+    <atom:link href="https://www.fradeet.top/rss.xml" rel="self" type="application/rss+xml"/>
     <description>探索专业性。</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 15:46:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 23:19:00 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
-      <title>重定向：人须敬畏天空——《给仰望者的天文朝圣之旅》读书推荐</title>
-      <link>https://fradeet.top/articles/2025/05/25/1748150996863.html</link>
-      <description/>
+      <title>冒险中感受家的温暖——游戏《爱里斯·奥德赛》试玩版的评论与展望</title>
+      <link>https://www.fradeet.top/article-2025-06-Game-Comments-Iris-Odyssey-Hephaistos-Ring-Demo.html</link>
+      <description>
+        <![CDATA[<p class="indent--2">《爱里斯·奥德赛 心火之戒》讲述了寻找哥哥的少女风花和拥有魔法力量的犯罪调查官爱里斯的冒险与心灵交流。本文是笔者在游玩了游戏试玩版后，简单地评价了试玩版的内容，及根据 Steam 商店页面等材料对后续剧情发展进行了展望。</p>]]>
+      </description>
       <author>fradeet</author>
-      <guid>https://fradeet.top/articles/2025/05/25/1748150996863.html</guid>
-      <category>Solo维护</category>
-      <pubDate>Mon, 02 Jun 2025 22:15:38 +0800</pubDate>
+      <guid>https://www.fradeet.top/article-2025-06-Game-Comments-Iris-Odyssey-Hephaistos-Ring-Demo.html</guid>
+      <category>游戏</category>
+      <category>视觉小说</category>
+      <pubDate>Mon, 30 Jun 2025 23:18:56 +0800</pubDate>
     </item>
     <item>
       <title>人须敬畏天空——《给仰望者的天文朝圣之旅》读书推荐</title>
-      <link>https://fradeet.top/article-2025-05-Book-Recommend-The-Soul-of-the-Night-An-Astronomical.html</link>
+      <link>https://www.fradeet.top/article-2025-05-Book-Recommend-The-Soul-of-the-Night-An-Astronomical.html</link>
       <description>
-        <![CDATA[<p>不仅是我们，在地球、太阳甚至宇宙之间处处充满了奇迹。本书更像一本散文集，语言优美充满诗意，鼓励读者面对这本书时静下心来感受其中蕴含的深刻意义，思考“我们从哪里来”的哲学问题并重新发现夜空的美丽与神秘。</p>]]>
+        <![CDATA[<p class="indent--2">不仅是我们，在地球、太阳甚至宇宙之间处处充满了奇迹。本书更像一本散文集，语言优美充满诗意，鼓励读者面对这本书时静下心来感受其中蕴含的深刻意义，思考“我们从哪里来”的哲学问题并重新发现夜空的美丽与神秘。</p>]]>
       </description>
       <author>fradeet</author>
-      <guid>https://fradeet.top/article-2025-05-Book-Recommend-The-Soul-of-the-Night-An-Astronomical.html</guid>
-      <category>书籍</category>
-      <category>学术化写作</category>
+      <guid>https://www.fradeet.top/article-2025-05-Book-Recommend-The-Soul-of-the-Night-An-Astronomical.html</guid>
       <category>天文</category>
-      <pubDate>Mon, 02 Jun 2025 22:14:14 +0800</pubDate>
+      <category>学术化写作</category>
+      <category>书籍</category>
+      <pubDate>Sat, 28 Jun 2025 17:43:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>关于个人</title>
+      <link>https://www.fradeet.top/About.html</link>
+      <description/>
+      <author>fradeet</author>
+      <guid>https://www.fradeet.top/About.html</guid>
+      <category>个人</category>
+      <pubDate>Sat, 28 Jun 2025 08:09:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>重定向：人须敬畏天空——《给仰望者的天文朝圣之旅》读书推荐</title>
+      <link>https://www.fradeet.top/articles/2025/05/25/1748150996863.html</link>
+      <description/>
+      <author>fradeet</author>
+      <guid>https://www.fradeet.top/articles/2025/05/25/1748150996863.html</guid>
+      <category>Solo维护</category>
+      <pubDate>Mon, 02 Jun 2025 22:15:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
