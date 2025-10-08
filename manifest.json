@@ -6,7 +6,7 @@
     "name": "斐地",
     "start_url": ".",
     "description": "探索专业性。",
-    "short_name": "斐地",
+    "short_name": "${shortName}",
     "icons": [
         {
             "sizes": "48x48",
